@@ -1,0 +1,1 @@
+alter table detallepedido add fechabaja DATE;

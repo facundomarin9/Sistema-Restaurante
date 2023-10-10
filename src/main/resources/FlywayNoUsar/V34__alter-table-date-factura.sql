@@ -1,0 +1,1 @@
+alter table factura add fechabaja DATE;

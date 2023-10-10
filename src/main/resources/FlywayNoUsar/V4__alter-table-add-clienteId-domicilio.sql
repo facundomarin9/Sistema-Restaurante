@@ -1,0 +1,1 @@
+alter table domicilio add cliente_id bigint not null;

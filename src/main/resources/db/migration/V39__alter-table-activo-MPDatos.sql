@@ -1,0 +1,1 @@
+alter table mercadopagodatos add activo tinyint;

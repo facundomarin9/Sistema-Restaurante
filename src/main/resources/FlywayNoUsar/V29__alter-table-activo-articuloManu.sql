@@ -1,0 +1,1 @@
+alter table articulomanufacturado add activo tinyint;
